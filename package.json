@@ -1,0 +1,29 @@
+{
+  "name": "notes-",
+  "version": "1.0.0",
+  "description": "An all encompassing application used for notetaking",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew72illinois/Notes-.git"
+  },
+  "keywords": [
+    "Notes",
+    "Touchscreen",
+    "AI",
+    "generated",
+    "problems"
+  ],
+  "author": "Andrew Kindratenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew72illinois/Notes-/issues"
+  },
+  "homepage": "https://github.com/andrew72illinois/Notes-#readme",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
